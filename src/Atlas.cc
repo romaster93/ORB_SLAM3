@@ -16,7 +16,7 @@
 * If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include "Atlas.h"
+#include "Atlas.h" //000000000
 #include "Viewer.h"
 
 #include "GeometricCamera.h"
